@@ -167,6 +167,8 @@ cat id_rsa_pub
 
 [video from Arab 1337, start 22:37](https://youtu.be/K5tYeMWj4Vc?si=QRXzV9pcOUJXbqNl&t=1357)
 
+[SSH: example in Github](https://youtu.be/cGcpVQlhbuI?si=LccibQYk6k7hG4Ze)
+
 # 4_midLS
 
 ```
@@ -280,8 +282,8 @@ cat clean
 
 [video start 18:27 ](https://youtu.be/Vc5ppbkQ1kU?si=zs145JTQl019MrJ8&t=1107)
 
-
 # 9_magic file
+
 ```
         // 1- you should create normal file
 mkdir ex09
@@ -310,13 +312,13 @@ cat ft_magic
 file -C -m ft_magic
 
         // we have compiled magic file to use
-        // you can remove the norma ft_magic file and keep only ft_magic.mgc file or keep both 
+        // you can remove the norma ft_magic file and keep only ft_magic.mgc file or keep both
 
         // we can delete magic.mgc file
 rm magic.mgc
 
 ```
+
 [Video start 21:40](https://youtu.be/VgHrT1zPR14?si=ADshWFg-vser6N2z&t=1304)
 
 [Video start 30:04](https://youtu.be/VgHrT1zPR14?si=3DNXrhnsxSzlCOtX&t=1807)
-
