@@ -1,20 +1,20 @@
 #include <unistd.h>
 
-void ft_print_numbers(void):
+void ft_print_numbers(void)
 {
 	int num;
-	num = 0
+	num =48; // we must use the Ascii code for the number as Memory don't know
+			 // the numbers and it's simbol for Memory
 
-	while(num <= 9):
+	while(num <= 57)
 	{
 		write(1,&num, 1);
 		num ++;
 	}
 }
 
-int main():
+int	 main()
 {
 
-	ft_print_numbers();
-	return 0;
+	ft_print_numbers(); 
 }
